@@ -1,0 +1,1 @@
+https://github.com/in28minutes/spring-boot-examples/tree/master/spring-boot-2-rest-service-basic
